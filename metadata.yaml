@@ -1,0 +1,26 @@
+_repo: The-Ancestral-Footstep-fragment-Outlines-of-an-English-Romance_8429
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: Hawthorne struggled in vain to complete this fragment of a romance for
+  more than twenty years. Based on an old English legend of a bloody footprint, it
+  illuminates many of the themes Hawthorne touched on in his greatest works, as well
+  as his methods of composition. It was published posthumously in 1883.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature'
+- !lcc 'PS'
+title: "The Ancestral Footstep (fragment)\r\nOutlines of an English Romance"
+url: http://www.gutenberg.org/ebooks/8429
